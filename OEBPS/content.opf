@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" prefix="rendition: http://www.idpf.org/vocab/rendition/# schema: http://schema.org/ a11y: http://www.idpf.org/epub/vocab/package/a11y/ ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Aaron Swartz (1986 — 2013)</dc:title>
+    <dc:language>it</dc:language>
+    <dc:creator id="cre">Aaron Swartz, autori vari</dc:creator>
+    <meta property="role" refines="#cre" scheme="marc:relators">aut</meta>
+    <dc:description>Questo ebook, curato da Bernardo Parrella e Andrea Zanni, contiene la traduzione di post, riflessioni e interventi di Aaron Swartz. Sono inclusi anche articoli e scritti di amici e attivisti, oltre a materiali su open access/free culture e un'ampia sezione di link e risorse di approfondimento.</dc:description>
+    <dc:rights>L'ebook è rilasciato sotto licenza creative commons by-nc-sa 3.0</dc:rights>
+    <dc:publisher>EbookAccessibili.it</dc:publisher>
+    <dc:contributor id="curators">Bernardo Parrella, Andrea Zanni</dc:contributor>
+    <meta property="role" refines="#curators" scheme="marc:relators">cur</meta>
+    <dc:contributor id="translators">Marco Caresia, Cristian Consonni, Elena Corradini, Silvia Franchini, Francesco Pandini, Bernardo Parrella, Mauro Pili, Eusebia Parrotto, Valentina Tosi, Andrea Zanni</dc:contributor>
+    <meta property="role" refines="#translators" scheme="marc:relators">trl</meta>
+    <dc:contributor id="review">Giulio Bonanome, Cristian Consonni, Eusebia Parrotto</dc:contributor>
+    <meta property="role" refines="#review" scheme="marc:relators">rev</meta>
+    <dc:contributor id="ebookdeveloper">Valeria Toti</dc:contributor>
+    <meta property="role" refines="#ebookdeveloper" scheme="marc:relators">mrk</meta>
+    <dc:contributor id="ebookdesigner">Valeria Toti</dc:contributor>
+    <meta property="role" refines="#ebookdesigner" scheme="marc:relators">bkd</meta>
+    <dc:identifier id="BookId">urn:uuid:c33f0157-2c57-4785-b60d-85f042b1d9cd</dc:identifier>
+    <meta content="0.9.8" name="Sigil version" />
+    <meta property="dcterms:modified">2018-09-22T09:41:11Z</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="schema:accessibilitySummary">Questa pubblicazione è conforme al livello AA delle WCAG 2.0</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityAPI">ARIA</meta>
+    <meta property="schema:accessibilityControl">fullKeyboardControl</meta>
+    <meta property="schema:accessibilityControl">fullMouseControl</meta>
+    <meta property="schema:accessibilityControl">fullTouchControl</meta>
+    <meta property="schema:accessibilityHazard">noFlashing</meta>
+    <meta property="schema:accessibilityHazard">noSound</meta>
+    <meta property="schema:accessibilityHazard">noMotionSimulation</meta>
+    <meta property="a11y:certifiedBy">EbookAccessibili.it</meta>
+    <link rel="dcterms:conformsTo" href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" />
+    <link rel="onix-record" href="onix.xml" />
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="title-page.xhtml" href="Text/title-page.xhtml" media-type="application/xhtml+xml"/>
+    <item id="prefazione.xhtml" href="Text/prefazione.xhtml" media-type="application/xhtml+xml"/>
+    <item id="un-anno-dopo.xhtml" href="Text/un-anno-dopo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="section-01.xhtml" href="Text/section-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="section-02.xhtml" href="Text/section-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="section-03.xhtml" href="Text/section-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="postfazione.xhtml" href="Text/postfazione.xhtml" media-type="application/xhtml+xml"/>
+    <item id="risorse.xhtml" href="Text/risorse.xhtml" media-type="application/xhtml+xml"/>
+    <item id="update2015.xhtml" href="Text/update2015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="style.css" href="Styles/style.css" media-type="text/css"/>
+    <item id="SourceSansPro-Bold.otf" href="Fonts/SourceSansPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="SourceSansPro-It.otf" href="Fonts/SourceSansPro-It.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="SourceSansPro-Regular.otf" href="Fonts/SourceSansPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="UbuntuMono-B.ttf" href="Fonts/UbuntuMono-B.ttf" media-type="application/x-font-ttf"/>
+    <item id="notice.xhtml" href="Text/notice.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2ooaswartz_ital_img_1.jpg" href="Images/2ooaswartz_ital_img_1.jpg" media-type="image/jpeg"/>
+    <item id="x2ooaswartz_ital_img_2.jpg" href="Images/2ooaswartz_ital_img_2.jpg" media-type="image/jpeg"/>
+    <item id="x2ooaswartz_ital_img_3.jpg" href="Images/2ooaswartz_ital_img_3.jpg" media-type="image/jpeg"/>
+    <item id="x2ooaswartz_ital_img_5.jpg" href="Images/2ooaswartz_ital_img_5.jpg" media-type="image/jpeg"/>
+    <item id="x2ooaswartz_ital_img_4.jpg" href="Images/2ooaswartz_ital_img_4.jpg" media-type="image/jpeg"/>
+    <item id="crediti.xhtml" href="Text/crediti.xhtml" media-type="application/xhtml+xml"/>
+    <item id="UbuntuMono-Regular.ttf" href="Fonts/UbuntuMono-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="title-page.xhtml"/>
+    <itemref idref="crediti.xhtml"/>
+    <itemref idref="notice.xhtml"/>
+    <itemref idref="nav.xhtml"/>
+    <itemref idref="prefazione.xhtml"/>
+    <itemref idref="un-anno-dopo.xhtml"/>
+    <itemref idref="section-01.xhtml"/>
+    <itemref idref="section-02.xhtml"/>
+    <itemref idref="section-03.xhtml"/>
+    <itemref idref="postfazione.xhtml"/>
+    <itemref idref="risorse.xhtml"/>
+    <itemref idref="update2015.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Copertina" href="Text/cover.xhtml"/>
+    <reference type="toc" title="SOMMARIO" href="Text/nav.xhtml"/>
+  </guide>
+</package>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="c33f0157-2c57-4785-b60d-85f042b1d9cd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Una vita per la cultura libera e la giustizia sociale</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint1">
+      <navLabel>
+        <text>COVER</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint2">
+      <navLabel>
+        <text>PREFAZIONE</text>
+      </navLabel>
+      <content src="Text/prefazione.xhtml"/>
+      <navPoint id="navPoint3">
+        <navLabel>
+          <text>Per un impegno civile senza soste né frontiere</text>
+        </navLabel>
+        <content src="Text/prefazione.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint4">
+      <navLabel>
+        <text>UN ANNO DOPO</text>
+      </navLabel>
+      <content src="Text/un-anno-dopo.xhtml"/>
+      <navPoint id="navPoint5">
+        <navLabel>
+          <text>Persone che lasciano il segno: Aaron Swartz (1986-2013)</text>
+        </navLabel>
+        <content src="Text/un-anno-dopo.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint6">
+      <navLabel>
+        <text>PARTE PRIMA</text>
+      </navLabel>
+      <content src="Text/section-01.xhtml"/>
+      <navPoint id="navPoint7">
+        <navLabel>
+          <text>Eredità</text>
+        </navLabel>
+        <content src="Text/section-01.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint8">
+        <navLabel>
+          <text>Consigli per trovare un lavoro come il mio</text>
+        </navLabel>
+        <content src="Text/section-01.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint9">
+        <navLabel>
+          <text>Dire addio all'imbarazzo</text>
+        </navLabel>
+        <content src="Text/section-01.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint10">
+        <navLabel>
+          <text>La vita nel mondo dell’immoralità diffusa: l’etica dell’esser vivo</text>
+        </navLabel>
+        <content src="Text/section-01.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint11">
+        <navLabel>
+          <text>Il libro che mi ha cambiato la vita</text>
+        </navLabel>
+        <content src="Text/section-01.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint12">
+        <navLabel>
+          <text>Chi scrive Wikipedia?</text>
+        </navLabel>
+        <content src="Text/section-01.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint13">
+        <navLabel>
+          <text>Manifesto della guerriglia open access</text>
+        </navLabel>
+        <content src="Text/section-01.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint14">
+        <navLabel>
+          <text>Come abbiamo bloccato il SOPA</text>
+        </navLabel>
+        <content src="Text/section-01.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint15">
+      <navLabel>
+        <text>PARTE SECONDA</text>
+      </navLabel>
+      <content src="Text/section-02.xhtml"/>
+      <navPoint id="navPoint16">
+        <navLabel>
+          <text>Aaron non era un hacker, ma un costruttore</text>
+        </navLabel>
+        <content src="Text/section-02.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint17">
+        <navLabel>
+          <text>Dare un senso alla perdita di Aaron</text>
+        </navLabel>
+        <content src="Text/section-02.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint18">
+        <navLabel>
+          <text>Perché Aaron è morto</text>
+        </navLabel>
+        <content src="Text/section-02.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint19">
+        <navLabel>
+          <text>L'esercito di Aaron</text>
+        </navLabel>
+        <content src="Text/section-02.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint20">
+        <navLabel>
+          <text>Aaron's Laws: legge e giustizia nell'era digitale</text>
+        </navLabel>
+        <content src="Text/section-02.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint21">
+      <navLabel>
+        <text>PARTE TERZA</text>
+      </navLabel>
+      <content src="Text/section-03.xhtml"/>
+      <navPoint id="navPoint22">
+        <navLabel>
+          <text>Cos’è l’open access</text>
+        </navLabel>
+        <content src="Text/section-03.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint23">
+        <navLabel>
+          <text>Dodici comandamenti per l’accesso aperto</text>
+        </navLabel>
+        <content src="Text/section-03.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint24">
+        <navLabel>
+          <text>Accesso aperto ai dati scientifici — Comunicazioni e raccomandazioni</text>
+        </navLabel>
+        <content src="Text/section-03.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint25">
+      <navLabel>
+        <text>POSTFAZIONE</text>
+      </navLabel>
+      <content src="Text/postfazione.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint26">
+      <navLabel>
+        <text>SELEZIONE DI ARTICOLI, LINK E RISORSE UTILI</text>
+      </navLabel>
+      <content src="Text/risorse.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint27">
+      <navLabel>
+        <text>AGGIORNAMENTO AL 22 FEBBRAIO 2015</text>
+      </navLabel>
+      <content src="Text/update2015.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
